@@ -1,0 +1,12 @@
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\bin\Debug\net5.0\MovieLib.deps.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\bin\Debug\net5.0\MovieLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\bin\Debug\net5.0\MovieLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\obj\Debug\net5.0\MovieLib.csproj.AssemblyReference.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\obj\Debug\net5.0\MovieLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\obj\Debug\net5.0\MovieLib.AssemblyInfoInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\obj\Debug\net5.0\MovieLib.AssemblyInfo.cs
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\obj\Debug\net5.0\MovieLib.csproj.CoreCompileInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\obj\Debug\net5.0\MovieLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\obj\Debug\net5.0\refint\MovieLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\obj\Debug\net5.0\MovieLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\MovieSet\MovieLib\MovieLib\obj\Debug\net5.0\ref\MovieLib.dll
