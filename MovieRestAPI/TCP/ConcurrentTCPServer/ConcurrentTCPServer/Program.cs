@@ -17,7 +17,7 @@ namespace ConcurrentTCPServer {
         private static List<Movie> moviesList = new List<Movie>();
             static void Main(string[] args) {
                 Console.WriteLine("Server:");
-                //Tells the operating system that all TCP connections on port 7 should be sent to this application
+                //Tells the operating system that all TCP connections on the chosen port should be sent to this application
                 TcpListener listener = new TcpListener(System.Net.IPAddress.Loopback, 43214);
                 //Starts listening
                 listener.Start();
