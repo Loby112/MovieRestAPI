@@ -18,6 +18,7 @@ namespace ConcurrentTCPServer {
             static void Main(string[] args) {
                 Console.WriteLine("Server:");
                 //Tells the operating system that all TCP connections on the chosen port should be sent to this application
+                //.Loopback lytter kun til egne kald, IPAddress.Any lytter på alle
                 TcpListener listener = new TcpListener(System.Net.IPAddress.Loopback, 43214);
                 //Starts listening
                 listener.Start();
