@@ -76,7 +76,7 @@ namespace ConcurrentTCPServer {
             public static string GetByCountry(string country){
                 //Splitter ordene så at jeg kan finde hvilket land man ønsker at få filmene fra
                 string[] words = country.Split(" ");
-                var result = moviesList.Find(m => m.Country == words[1]);
+                var result = moviesList.FindAll(m => m.Country == words[1]);
                 string serializedData = JsonSerializer.Serialize(result);
                 return serializedData;
             }
