@@ -44,9 +44,9 @@ namespace ConcurrentTCPServer {
                 StreamReader reader = new StreamReader(ns);
                 //Creates a writer for easily writing to the client
                 StreamWriter writer = new StreamWriter(ns);
-
+                //Bruges hvis jeg vil have movies hentet fra API i stedet for at lave listen i programmet selv
                 APIMovies();
-            //Reads all data until the client sends a newline (\r\n) and stores it in a string
+                //Reads all data until the client sends a newline (\r\n) and stores it in a string
                 string message = reader.ReadLine();
                 Console.WriteLine("Client wrote: " + message);
                 //Lytter og tjekker på hvilken metode der bliver sendt
